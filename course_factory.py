@@ -128,7 +128,7 @@ class Lesson(BaseModel):
     source_ids: list[str]
     title: str
     textbook_refs: list[str]
-    outcomes: list[Outcome] = Field(min_length=1, max_length=2)
+    outcomes: list[Outcome] = Field(default_factory=list)
     activation: Activation | None = None
     learning_objects: list[LearningObject] = Field(default_factory=list)
     editor_review: EditorReview | None = None
@@ -354,6 +354,30 @@ def write_outputs(course: Course, logger: EvidenceLogger, out: Path) -> None:
 """, encoding="utf-8")
 
 
+def validate_course_structure(course: Course) -> None:
+    """Validate cross-object constraints after orchestration completes.
+
+    Several objects are built progressively. For example, a lesson is created
+    before the Outcome Writer adds outcomes. These checks intentionally run
+    after all stages finish instead of at intermediate construction time.
+    """
+    for unit in course.units:
+        if len(unit.lessons) != 3:
+            raise ValueError(f"{unit.id} must contain exactly 3 lessons, found {len(unit.lessons)}")
+        for lesson in unit.lessons:
+            if not 1 <= len(lesson.outcomes) <= 2:
+                raise ValueError(f"{lesson.id} must contain 1-2 outcomes, found {len(lesson.outcomes)}")
+            if lesson.activation is None:
+                raise ValueError(f"{lesson.id} is missing an activation")
+            if not lesson.learning_objects:
+                raise ValueError(f"{lesson.id} is missing learning objects")
+            if lesson.editor_review is None:
+                raise ValueError(f"{lesson.id} is missing an editor review")
+            for outcome in lesson.outcomes:
+                if not 3 <= len(outcome.questions) <= 4:
+                    raise ValueError(f"{outcome.id} must contain 3-4 questions, found {len(outcome.questions)}")
+
+
 async def main() -> None:
     p=argparse.ArgumentParser(description="Build a structured course plan from an OpenStax textbook.")
     p.add_argument("--title", required=True); p.add_argument("--source", required=True); p.add_argument("--units", type=int, required=True); p.add_argument("--model", default=os.getenv("OPENAI_MODEL","gpt-4.1-mini")); p.add_argument("--offline", action="store_true")
@@ -362,6 +386,7 @@ async def main() -> None:
     # Prototype keeps orchestration in code. Live model hooks can be enabled incrementally; fallback preserves schema and traceability.
     course=fallback_course(args.title,args.source,args.units,toc,logger)
     Course.model_validate(course.model_dump())
+    validate_course_structure(course)
     write_outputs(course,logger,out)
     print(f"Done. Wrote {out/'course.json'}, {out/'course.csv'}, {out/'course_build_log.csv'}, and {out/'course_build_summary.md'}")
 
