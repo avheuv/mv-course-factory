@@ -1,0 +1,2440 @@
+{
+  "id": "COURSE",
+  "title": "Astronomy",
+  "textbook_source": "https://openstax.org/details/books/astronomy-2e",
+  "run_id": "85725c24",
+  "units": [
+    {
+      "id": "U01",
+      "lessons": [
+        {
+          "id": "U01-L01",
+          "parent_id": "U01",
+          "source_ids": [
+            "U01",
+            "CH01"
+          ],
+          "title": "Foundations and Scope: Key Ideas 1",
+          "textbook_refs": [
+            "Chapter 1"
+          ],
+          "outcomes": [
+            {
+              "id": "U01-L01-O01",
+              "parent_id": "U01-L01",
+              "source_ids": [
+                "U01-L01",
+                "CH01"
+              ],
+              "questions": [
+                {
+                  "id": "U01-L01-O01-Q01",
+                  "parent_id": "U01-L01-O01",
+                  "source_ids": [
+                    "U01-L01-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Foundations and Scope: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U01-L01-O01-Q02",
+                  "parent_id": "U01-L01-O01",
+                  "source_ids": [
+                    "U01-L01-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Foundations and Scope: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U01-L01-O01-Q03",
+                  "parent_id": "U01-L01-O01",
+                  "source_ids": [
+                    "U01-L01-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Foundations and Scope: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain core concepts related to Foundations and Scope: Key Ideas 1.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            },
+            {
+              "id": "U01-L01-O02",
+              "parent_id": "U01-L01",
+              "source_ids": [
+                "U01-L01",
+                "CH01"
+              ],
+              "questions": [
+                {
+                  "id": "U01-L01-O02-Q01",
+                  "parent_id": "U01-L01-O02",
+                  "source_ids": [
+                    "U01-L01-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Foundations and Scope: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U01-L01-O02-Q02",
+                  "parent_id": "U01-L01-O02",
+                  "source_ids": [
+                    "U01-L01-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Foundations and Scope: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U01-L01-O02-Q03",
+                  "parent_id": "U01-L01-O02",
+                  "source_ids": [
+                    "U01-L01-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Foundations and Scope: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain evidence and applications related to Foundations and Scope: Key Ideas 1.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            }
+          ],
+          "learning_objects": [
+            {
+              "id": "U01-L01-LO01",
+              "parent_id": "U01-L01",
+              "source_ids": [
+                "U01-L01",
+                "U01-L01-O01",
+                "U01-L01-O02"
+              ],
+              "type": "reading",
+              "title": "OpenStax reading: Foundations and Scope",
+              "url": "https://openstax.org/details/books/astronomy-2e",
+              "description": "Primary textbook reading aligned to Foundations and Scope: Key Ideas 1.",
+              "decision_rationale": "Uses source textbook as grounded learning object when external search is not performed.",
+              "alignment_claim": "Reading directly supports the lesson and outcomes."
+            }
+          ],
+          "decision_rationale": "Split unit scope into three lesson-level segments without labs.",
+          "alignment_claim": "Lesson title is grounded in the selected textbook chapter or section.",
+          "activation": {
+            "id": "U01-L01-A01",
+            "parent_id": "U01-L01",
+            "source_ids": [
+              "U01-L01",
+              "U01-L01-O01",
+              "U01-L01-O02"
+            ],
+            "title": "Opening scenario for Foundations and Scope: Key Ideas 1",
+            "prompt": "Consider a real-world situation involving Foundations and Scope: Key Ideas 1. What would you predict before reading the textbook explanation?",
+            "decision_rationale": "Prompts curiosity without giving away assessment answers.",
+            "alignment_claim": "Activation introduces the lesson topic and outcome context."
+          },
+          "editor_review": {
+            "id": "U01-L01-ER01",
+            "parent_id": "U01-L01",
+            "source_ids": [
+              "U01-L01",
+              "U01-L01-O01",
+              "U01-L01-O02"
+            ],
+            "status": "human_review",
+            "flags": [
+              "Human review recommended for placeholder MCQ specificity"
+            ],
+            "recommendations": [
+              "Replace fallback questions with source-specific misconceptions after model run."
+            ],
+            "decision_rationale": "Validated structure and marked weak placeholder specificity.",
+            "alignment_claim": "Review checks title, outcomes, questions, activation, learning object, and textbook grounding."
+          }
+        },
+        {
+          "id": "U01-L02",
+          "parent_id": "U01",
+          "source_ids": [
+            "U01",
+            "CH01"
+          ],
+          "title": "Foundations and Scope: Key Ideas 2",
+          "textbook_refs": [
+            "Chapter 1"
+          ],
+          "outcomes": [
+            {
+              "id": "U01-L02-O01",
+              "parent_id": "U01-L02",
+              "source_ids": [
+                "U01-L02",
+                "CH01"
+              ],
+              "questions": [
+                {
+                  "id": "U01-L02-O01-Q01",
+                  "parent_id": "U01-L02-O01",
+                  "source_ids": [
+                    "U01-L02-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Foundations and Scope: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U01-L02-O01-Q02",
+                  "parent_id": "U01-L02-O01",
+                  "source_ids": [
+                    "U01-L02-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Foundations and Scope: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U01-L02-O01-Q03",
+                  "parent_id": "U01-L02-O01",
+                  "source_ids": [
+                    "U01-L02-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Foundations and Scope: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain core concepts related to Foundations and Scope: Key Ideas 2.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            },
+            {
+              "id": "U01-L02-O02",
+              "parent_id": "U01-L02",
+              "source_ids": [
+                "U01-L02",
+                "CH01"
+              ],
+              "questions": [
+                {
+                  "id": "U01-L02-O02-Q01",
+                  "parent_id": "U01-L02-O02",
+                  "source_ids": [
+                    "U01-L02-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Foundations and Scope: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U01-L02-O02-Q02",
+                  "parent_id": "U01-L02-O02",
+                  "source_ids": [
+                    "U01-L02-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Foundations and Scope: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U01-L02-O02-Q03",
+                  "parent_id": "U01-L02-O02",
+                  "source_ids": [
+                    "U01-L02-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Foundations and Scope: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain evidence and applications related to Foundations and Scope: Key Ideas 2.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            }
+          ],
+          "learning_objects": [
+            {
+              "id": "U01-L02-LO01",
+              "parent_id": "U01-L02",
+              "source_ids": [
+                "U01-L02",
+                "U01-L02-O01",
+                "U01-L02-O02"
+              ],
+              "type": "reading",
+              "title": "OpenStax reading: Foundations and Scope",
+              "url": "https://openstax.org/details/books/astronomy-2e",
+              "description": "Primary textbook reading aligned to Foundations and Scope: Key Ideas 2.",
+              "decision_rationale": "Uses source textbook as grounded learning object when external search is not performed.",
+              "alignment_claim": "Reading directly supports the lesson and outcomes."
+            }
+          ],
+          "decision_rationale": "Split unit scope into three lesson-level segments without labs.",
+          "alignment_claim": "Lesson title is grounded in the selected textbook chapter or section.",
+          "activation": {
+            "id": "U01-L02-A01",
+            "parent_id": "U01-L02",
+            "source_ids": [
+              "U01-L02",
+              "U01-L02-O01",
+              "U01-L02-O02"
+            ],
+            "title": "Opening scenario for Foundations and Scope: Key Ideas 2",
+            "prompt": "Consider a real-world situation involving Foundations and Scope: Key Ideas 2. What would you predict before reading the textbook explanation?",
+            "decision_rationale": "Prompts curiosity without giving away assessment answers.",
+            "alignment_claim": "Activation introduces the lesson topic and outcome context."
+          },
+          "editor_review": {
+            "id": "U01-L02-ER01",
+            "parent_id": "U01-L02",
+            "source_ids": [
+              "U01-L02",
+              "U01-L02-O01",
+              "U01-L02-O02"
+            ],
+            "status": "human_review",
+            "flags": [
+              "Human review recommended for placeholder MCQ specificity"
+            ],
+            "recommendations": [
+              "Replace fallback questions with source-specific misconceptions after model run."
+            ],
+            "decision_rationale": "Validated structure and marked weak placeholder specificity.",
+            "alignment_claim": "Review checks title, outcomes, questions, activation, learning object, and textbook grounding."
+          }
+        },
+        {
+          "id": "U01-L03",
+          "parent_id": "U01",
+          "source_ids": [
+            "U01",
+            "CH01"
+          ],
+          "title": "Foundations and Scope: Key Ideas 3",
+          "textbook_refs": [
+            "Chapter 1"
+          ],
+          "outcomes": [
+            {
+              "id": "U01-L03-O01",
+              "parent_id": "U01-L03",
+              "source_ids": [
+                "U01-L03",
+                "CH01"
+              ],
+              "questions": [
+                {
+                  "id": "U01-L03-O01-Q01",
+                  "parent_id": "U01-L03-O01",
+                  "source_ids": [
+                    "U01-L03-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Foundations and Scope: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U01-L03-O01-Q02",
+                  "parent_id": "U01-L03-O01",
+                  "source_ids": [
+                    "U01-L03-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Foundations and Scope: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U01-L03-O01-Q03",
+                  "parent_id": "U01-L03-O01",
+                  "source_ids": [
+                    "U01-L03-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Foundations and Scope: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain core concepts related to Foundations and Scope: Key Ideas 3.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            },
+            {
+              "id": "U01-L03-O02",
+              "parent_id": "U01-L03",
+              "source_ids": [
+                "U01-L03",
+                "CH01"
+              ],
+              "questions": [
+                {
+                  "id": "U01-L03-O02-Q01",
+                  "parent_id": "U01-L03-O02",
+                  "source_ids": [
+                    "U01-L03-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Foundations and Scope: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U01-L03-O02-Q02",
+                  "parent_id": "U01-L03-O02",
+                  "source_ids": [
+                    "U01-L03-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Foundations and Scope: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U01-L03-O02-Q03",
+                  "parent_id": "U01-L03-O02",
+                  "source_ids": [
+                    "U01-L03-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Foundations and Scope: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain evidence and applications related to Foundations and Scope: Key Ideas 3.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            }
+          ],
+          "learning_objects": [
+            {
+              "id": "U01-L03-LO01",
+              "parent_id": "U01-L03",
+              "source_ids": [
+                "U01-L03",
+                "U01-L03-O01",
+                "U01-L03-O02"
+              ],
+              "type": "reading",
+              "title": "OpenStax reading: Foundations and Scope",
+              "url": "https://openstax.org/details/books/astronomy-2e",
+              "description": "Primary textbook reading aligned to Foundations and Scope: Key Ideas 3.",
+              "decision_rationale": "Uses source textbook as grounded learning object when external search is not performed.",
+              "alignment_claim": "Reading directly supports the lesson and outcomes."
+            }
+          ],
+          "decision_rationale": "Split unit scope into three lesson-level segments without labs.",
+          "alignment_claim": "Lesson title is grounded in the selected textbook chapter or section.",
+          "activation": {
+            "id": "U01-L03-A01",
+            "parent_id": "U01-L03",
+            "source_ids": [
+              "U01-L03",
+              "U01-L03-O01",
+              "U01-L03-O02"
+            ],
+            "title": "Opening scenario for Foundations and Scope: Key Ideas 3",
+            "prompt": "Consider a real-world situation involving Foundations and Scope: Key Ideas 3. What would you predict before reading the textbook explanation?",
+            "decision_rationale": "Prompts curiosity without giving away assessment answers.",
+            "alignment_claim": "Activation introduces the lesson topic and outcome context."
+          },
+          "editor_review": {
+            "id": "U01-L03-ER01",
+            "parent_id": "U01-L03",
+            "source_ids": [
+              "U01-L03",
+              "U01-L03-O01",
+              "U01-L03-O02"
+            ],
+            "status": "human_review",
+            "flags": [
+              "Human review recommended for placeholder MCQ specificity"
+            ],
+            "recommendations": [
+              "Replace fallback questions with source-specific misconceptions after model run."
+            ],
+            "decision_rationale": "Validated structure and marked weak placeholder specificity.",
+            "alignment_claim": "Review checks title, outcomes, questions, activation, learning object, and textbook grounding."
+          }
+        }
+      ],
+      "source_ids": [
+        "CH01"
+      ],
+      "title": "Unit 1: Foundations and Scope",
+      "textbook_refs": [
+        "Chapter 1"
+      ],
+      "decision_rationale": "Grouped adjacent textbook chapters to preserve source sequence.",
+      "alignment_claim": "Unit scope follows the textbook table of contents and chapter summary evidence."
+    },
+    {
+      "id": "U02",
+      "lessons": [
+        {
+          "id": "U02-L01",
+          "parent_id": "U02",
+          "source_ids": [
+            "U02",
+            "CH02"
+          ],
+          "title": "Core Concepts: Key Ideas 1",
+          "textbook_refs": [
+            "Chapter 2"
+          ],
+          "outcomes": [
+            {
+              "id": "U02-L01-O01",
+              "parent_id": "U02-L01",
+              "source_ids": [
+                "U02-L01",
+                "CH02"
+              ],
+              "questions": [
+                {
+                  "id": "U02-L01-O01-Q01",
+                  "parent_id": "U02-L01-O01",
+                  "source_ids": [
+                    "U02-L01-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Core Concepts: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U02-L01-O01-Q02",
+                  "parent_id": "U02-L01-O01",
+                  "source_ids": [
+                    "U02-L01-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Core Concepts: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U02-L01-O01-Q03",
+                  "parent_id": "U02-L01-O01",
+                  "source_ids": [
+                    "U02-L01-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Core Concepts: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain core concepts related to Core Concepts: Key Ideas 1.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            },
+            {
+              "id": "U02-L01-O02",
+              "parent_id": "U02-L01",
+              "source_ids": [
+                "U02-L01",
+                "CH02"
+              ],
+              "questions": [
+                {
+                  "id": "U02-L01-O02-Q01",
+                  "parent_id": "U02-L01-O02",
+                  "source_ids": [
+                    "U02-L01-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Core Concepts: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U02-L01-O02-Q02",
+                  "parent_id": "U02-L01-O02",
+                  "source_ids": [
+                    "U02-L01-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Core Concepts: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U02-L01-O02-Q03",
+                  "parent_id": "U02-L01-O02",
+                  "source_ids": [
+                    "U02-L01-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Core Concepts: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain evidence and applications related to Core Concepts: Key Ideas 1.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            }
+          ],
+          "learning_objects": [
+            {
+              "id": "U02-L01-LO01",
+              "parent_id": "U02-L01",
+              "source_ids": [
+                "U02-L01",
+                "U02-L01-O01",
+                "U02-L01-O02"
+              ],
+              "type": "reading",
+              "title": "OpenStax reading: Core Concepts",
+              "url": "https://openstax.org/details/books/astronomy-2e",
+              "description": "Primary textbook reading aligned to Core Concepts: Key Ideas 1.",
+              "decision_rationale": "Uses source textbook as grounded learning object when external search is not performed.",
+              "alignment_claim": "Reading directly supports the lesson and outcomes."
+            }
+          ],
+          "decision_rationale": "Split unit scope into three lesson-level segments without labs.",
+          "alignment_claim": "Lesson title is grounded in the selected textbook chapter or section.",
+          "activation": {
+            "id": "U02-L01-A01",
+            "parent_id": "U02-L01",
+            "source_ids": [
+              "U02-L01",
+              "U02-L01-O01",
+              "U02-L01-O02"
+            ],
+            "title": "Opening scenario for Core Concepts: Key Ideas 1",
+            "prompt": "Consider a real-world situation involving Core Concepts: Key Ideas 1. What would you predict before reading the textbook explanation?",
+            "decision_rationale": "Prompts curiosity without giving away assessment answers.",
+            "alignment_claim": "Activation introduces the lesson topic and outcome context."
+          },
+          "editor_review": {
+            "id": "U02-L01-ER01",
+            "parent_id": "U02-L01",
+            "source_ids": [
+              "U02-L01",
+              "U02-L01-O01",
+              "U02-L01-O02"
+            ],
+            "status": "human_review",
+            "flags": [
+              "Human review recommended for placeholder MCQ specificity"
+            ],
+            "recommendations": [
+              "Replace fallback questions with source-specific misconceptions after model run."
+            ],
+            "decision_rationale": "Validated structure and marked weak placeholder specificity.",
+            "alignment_claim": "Review checks title, outcomes, questions, activation, learning object, and textbook grounding."
+          }
+        },
+        {
+          "id": "U02-L02",
+          "parent_id": "U02",
+          "source_ids": [
+            "U02",
+            "CH02"
+          ],
+          "title": "Core Concepts: Key Ideas 2",
+          "textbook_refs": [
+            "Chapter 2"
+          ],
+          "outcomes": [
+            {
+              "id": "U02-L02-O01",
+              "parent_id": "U02-L02",
+              "source_ids": [
+                "U02-L02",
+                "CH02"
+              ],
+              "questions": [
+                {
+                  "id": "U02-L02-O01-Q01",
+                  "parent_id": "U02-L02-O01",
+                  "source_ids": [
+                    "U02-L02-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Core Concepts: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U02-L02-O01-Q02",
+                  "parent_id": "U02-L02-O01",
+                  "source_ids": [
+                    "U02-L02-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Core Concepts: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U02-L02-O01-Q03",
+                  "parent_id": "U02-L02-O01",
+                  "source_ids": [
+                    "U02-L02-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Core Concepts: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain core concepts related to Core Concepts: Key Ideas 2.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            },
+            {
+              "id": "U02-L02-O02",
+              "parent_id": "U02-L02",
+              "source_ids": [
+                "U02-L02",
+                "CH02"
+              ],
+              "questions": [
+                {
+                  "id": "U02-L02-O02-Q01",
+                  "parent_id": "U02-L02-O02",
+                  "source_ids": [
+                    "U02-L02-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Core Concepts: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U02-L02-O02-Q02",
+                  "parent_id": "U02-L02-O02",
+                  "source_ids": [
+                    "U02-L02-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Core Concepts: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U02-L02-O02-Q03",
+                  "parent_id": "U02-L02-O02",
+                  "source_ids": [
+                    "U02-L02-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Core Concepts: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain evidence and applications related to Core Concepts: Key Ideas 2.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            }
+          ],
+          "learning_objects": [
+            {
+              "id": "U02-L02-LO01",
+              "parent_id": "U02-L02",
+              "source_ids": [
+                "U02-L02",
+                "U02-L02-O01",
+                "U02-L02-O02"
+              ],
+              "type": "reading",
+              "title": "OpenStax reading: Core Concepts",
+              "url": "https://openstax.org/details/books/astronomy-2e",
+              "description": "Primary textbook reading aligned to Core Concepts: Key Ideas 2.",
+              "decision_rationale": "Uses source textbook as grounded learning object when external search is not performed.",
+              "alignment_claim": "Reading directly supports the lesson and outcomes."
+            }
+          ],
+          "decision_rationale": "Split unit scope into three lesson-level segments without labs.",
+          "alignment_claim": "Lesson title is grounded in the selected textbook chapter or section.",
+          "activation": {
+            "id": "U02-L02-A01",
+            "parent_id": "U02-L02",
+            "source_ids": [
+              "U02-L02",
+              "U02-L02-O01",
+              "U02-L02-O02"
+            ],
+            "title": "Opening scenario for Core Concepts: Key Ideas 2",
+            "prompt": "Consider a real-world situation involving Core Concepts: Key Ideas 2. What would you predict before reading the textbook explanation?",
+            "decision_rationale": "Prompts curiosity without giving away assessment answers.",
+            "alignment_claim": "Activation introduces the lesson topic and outcome context."
+          },
+          "editor_review": {
+            "id": "U02-L02-ER01",
+            "parent_id": "U02-L02",
+            "source_ids": [
+              "U02-L02",
+              "U02-L02-O01",
+              "U02-L02-O02"
+            ],
+            "status": "human_review",
+            "flags": [
+              "Human review recommended for placeholder MCQ specificity"
+            ],
+            "recommendations": [
+              "Replace fallback questions with source-specific misconceptions after model run."
+            ],
+            "decision_rationale": "Validated structure and marked weak placeholder specificity.",
+            "alignment_claim": "Review checks title, outcomes, questions, activation, learning object, and textbook grounding."
+          }
+        },
+        {
+          "id": "U02-L03",
+          "parent_id": "U02",
+          "source_ids": [
+            "U02",
+            "CH02"
+          ],
+          "title": "Core Concepts: Key Ideas 3",
+          "textbook_refs": [
+            "Chapter 2"
+          ],
+          "outcomes": [
+            {
+              "id": "U02-L03-O01",
+              "parent_id": "U02-L03",
+              "source_ids": [
+                "U02-L03",
+                "CH02"
+              ],
+              "questions": [
+                {
+                  "id": "U02-L03-O01-Q01",
+                  "parent_id": "U02-L03-O01",
+                  "source_ids": [
+                    "U02-L03-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Core Concepts: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U02-L03-O01-Q02",
+                  "parent_id": "U02-L03-O01",
+                  "source_ids": [
+                    "U02-L03-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Core Concepts: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U02-L03-O01-Q03",
+                  "parent_id": "U02-L03-O01",
+                  "source_ids": [
+                    "U02-L03-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Core Concepts: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain core concepts related to Core Concepts: Key Ideas 3.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            },
+            {
+              "id": "U02-L03-O02",
+              "parent_id": "U02-L03",
+              "source_ids": [
+                "U02-L03",
+                "CH02"
+              ],
+              "questions": [
+                {
+                  "id": "U02-L03-O02-Q01",
+                  "parent_id": "U02-L03-O02",
+                  "source_ids": [
+                    "U02-L03-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Core Concepts: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U02-L03-O02-Q02",
+                  "parent_id": "U02-L03-O02",
+                  "source_ids": [
+                    "U02-L03-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Core Concepts: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U02-L03-O02-Q03",
+                  "parent_id": "U02-L03-O02",
+                  "source_ids": [
+                    "U02-L03-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Core Concepts: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain evidence and applications related to Core Concepts: Key Ideas 3.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            }
+          ],
+          "learning_objects": [
+            {
+              "id": "U02-L03-LO01",
+              "parent_id": "U02-L03",
+              "source_ids": [
+                "U02-L03",
+                "U02-L03-O01",
+                "U02-L03-O02"
+              ],
+              "type": "reading",
+              "title": "OpenStax reading: Core Concepts",
+              "url": "https://openstax.org/details/books/astronomy-2e",
+              "description": "Primary textbook reading aligned to Core Concepts: Key Ideas 3.",
+              "decision_rationale": "Uses source textbook as grounded learning object when external search is not performed.",
+              "alignment_claim": "Reading directly supports the lesson and outcomes."
+            }
+          ],
+          "decision_rationale": "Split unit scope into three lesson-level segments without labs.",
+          "alignment_claim": "Lesson title is grounded in the selected textbook chapter or section.",
+          "activation": {
+            "id": "U02-L03-A01",
+            "parent_id": "U02-L03",
+            "source_ids": [
+              "U02-L03",
+              "U02-L03-O01",
+              "U02-L03-O02"
+            ],
+            "title": "Opening scenario for Core Concepts: Key Ideas 3",
+            "prompt": "Consider a real-world situation involving Core Concepts: Key Ideas 3. What would you predict before reading the textbook explanation?",
+            "decision_rationale": "Prompts curiosity without giving away assessment answers.",
+            "alignment_claim": "Activation introduces the lesson topic and outcome context."
+          },
+          "editor_review": {
+            "id": "U02-L03-ER01",
+            "parent_id": "U02-L03",
+            "source_ids": [
+              "U02-L03",
+              "U02-L03-O01",
+              "U02-L03-O02"
+            ],
+            "status": "human_review",
+            "flags": [
+              "Human review recommended for placeholder MCQ specificity"
+            ],
+            "recommendations": [
+              "Replace fallback questions with source-specific misconceptions after model run."
+            ],
+            "decision_rationale": "Validated structure and marked weak placeholder specificity.",
+            "alignment_claim": "Review checks title, outcomes, questions, activation, learning object, and textbook grounding."
+          }
+        }
+      ],
+      "source_ids": [
+        "CH02"
+      ],
+      "title": "Unit 2: Core Concepts",
+      "textbook_refs": [
+        "Chapter 2"
+      ],
+      "decision_rationale": "Grouped adjacent textbook chapters to preserve source sequence.",
+      "alignment_claim": "Unit scope follows the textbook table of contents and chapter summary evidence."
+    },
+    {
+      "id": "U03",
+      "lessons": [
+        {
+          "id": "U03-L01",
+          "parent_id": "U03",
+          "source_ids": [
+            "U03",
+            "CH03"
+          ],
+          "title": "Systems and Processes: Key Ideas 1",
+          "textbook_refs": [
+            "Chapter 3"
+          ],
+          "outcomes": [
+            {
+              "id": "U03-L01-O01",
+              "parent_id": "U03-L01",
+              "source_ids": [
+                "U03-L01",
+                "CH03"
+              ],
+              "questions": [
+                {
+                  "id": "U03-L01-O01-Q01",
+                  "parent_id": "U03-L01-O01",
+                  "source_ids": [
+                    "U03-L01-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Systems and Processes: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U03-L01-O01-Q02",
+                  "parent_id": "U03-L01-O01",
+                  "source_ids": [
+                    "U03-L01-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Systems and Processes: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U03-L01-O01-Q03",
+                  "parent_id": "U03-L01-O01",
+                  "source_ids": [
+                    "U03-L01-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Systems and Processes: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain core concepts related to Systems and Processes: Key Ideas 1.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            },
+            {
+              "id": "U03-L01-O02",
+              "parent_id": "U03-L01",
+              "source_ids": [
+                "U03-L01",
+                "CH03"
+              ],
+              "questions": [
+                {
+                  "id": "U03-L01-O02-Q01",
+                  "parent_id": "U03-L01-O02",
+                  "source_ids": [
+                    "U03-L01-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Systems and Processes: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U03-L01-O02-Q02",
+                  "parent_id": "U03-L01-O02",
+                  "source_ids": [
+                    "U03-L01-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Systems and Processes: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U03-L01-O02-Q03",
+                  "parent_id": "U03-L01-O02",
+                  "source_ids": [
+                    "U03-L01-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Systems and Processes: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain evidence and applications related to Systems and Processes: Key Ideas 1.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            }
+          ],
+          "learning_objects": [
+            {
+              "id": "U03-L01-LO01",
+              "parent_id": "U03-L01",
+              "source_ids": [
+                "U03-L01",
+                "U03-L01-O01",
+                "U03-L01-O02"
+              ],
+              "type": "reading",
+              "title": "OpenStax reading: Systems and Processes",
+              "url": "https://openstax.org/details/books/astronomy-2e",
+              "description": "Primary textbook reading aligned to Systems and Processes: Key Ideas 1.",
+              "decision_rationale": "Uses source textbook as grounded learning object when external search is not performed.",
+              "alignment_claim": "Reading directly supports the lesson and outcomes."
+            }
+          ],
+          "decision_rationale": "Split unit scope into three lesson-level segments without labs.",
+          "alignment_claim": "Lesson title is grounded in the selected textbook chapter or section.",
+          "activation": {
+            "id": "U03-L01-A01",
+            "parent_id": "U03-L01",
+            "source_ids": [
+              "U03-L01",
+              "U03-L01-O01",
+              "U03-L01-O02"
+            ],
+            "title": "Opening scenario for Systems and Processes: Key Ideas 1",
+            "prompt": "Consider a real-world situation involving Systems and Processes: Key Ideas 1. What would you predict before reading the textbook explanation?",
+            "decision_rationale": "Prompts curiosity without giving away assessment answers.",
+            "alignment_claim": "Activation introduces the lesson topic and outcome context."
+          },
+          "editor_review": {
+            "id": "U03-L01-ER01",
+            "parent_id": "U03-L01",
+            "source_ids": [
+              "U03-L01",
+              "U03-L01-O01",
+              "U03-L01-O02"
+            ],
+            "status": "human_review",
+            "flags": [
+              "Human review recommended for placeholder MCQ specificity"
+            ],
+            "recommendations": [
+              "Replace fallback questions with source-specific misconceptions after model run."
+            ],
+            "decision_rationale": "Validated structure and marked weak placeholder specificity.",
+            "alignment_claim": "Review checks title, outcomes, questions, activation, learning object, and textbook grounding."
+          }
+        },
+        {
+          "id": "U03-L02",
+          "parent_id": "U03",
+          "source_ids": [
+            "U03",
+            "CH03"
+          ],
+          "title": "Systems and Processes: Key Ideas 2",
+          "textbook_refs": [
+            "Chapter 3"
+          ],
+          "outcomes": [
+            {
+              "id": "U03-L02-O01",
+              "parent_id": "U03-L02",
+              "source_ids": [
+                "U03-L02",
+                "CH03"
+              ],
+              "questions": [
+                {
+                  "id": "U03-L02-O01-Q01",
+                  "parent_id": "U03-L02-O01",
+                  "source_ids": [
+                    "U03-L02-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Systems and Processes: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U03-L02-O01-Q02",
+                  "parent_id": "U03-L02-O01",
+                  "source_ids": [
+                    "U03-L02-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Systems and Processes: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U03-L02-O01-Q03",
+                  "parent_id": "U03-L02-O01",
+                  "source_ids": [
+                    "U03-L02-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Systems and Processes: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain core concepts related to Systems and Processes: Key Ideas 2.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            },
+            {
+              "id": "U03-L02-O02",
+              "parent_id": "U03-L02",
+              "source_ids": [
+                "U03-L02",
+                "CH03"
+              ],
+              "questions": [
+                {
+                  "id": "U03-L02-O02-Q01",
+                  "parent_id": "U03-L02-O02",
+                  "source_ids": [
+                    "U03-L02-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Systems and Processes: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U03-L02-O02-Q02",
+                  "parent_id": "U03-L02-O02",
+                  "source_ids": [
+                    "U03-L02-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Systems and Processes: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U03-L02-O02-Q03",
+                  "parent_id": "U03-L02-O02",
+                  "source_ids": [
+                    "U03-L02-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Systems and Processes: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain evidence and applications related to Systems and Processes: Key Ideas 2.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            }
+          ],
+          "learning_objects": [
+            {
+              "id": "U03-L02-LO01",
+              "parent_id": "U03-L02",
+              "source_ids": [
+                "U03-L02",
+                "U03-L02-O01",
+                "U03-L02-O02"
+              ],
+              "type": "reading",
+              "title": "OpenStax reading: Systems and Processes",
+              "url": "https://openstax.org/details/books/astronomy-2e",
+              "description": "Primary textbook reading aligned to Systems and Processes: Key Ideas 2.",
+              "decision_rationale": "Uses source textbook as grounded learning object when external search is not performed.",
+              "alignment_claim": "Reading directly supports the lesson and outcomes."
+            }
+          ],
+          "decision_rationale": "Split unit scope into three lesson-level segments without labs.",
+          "alignment_claim": "Lesson title is grounded in the selected textbook chapter or section.",
+          "activation": {
+            "id": "U03-L02-A01",
+            "parent_id": "U03-L02",
+            "source_ids": [
+              "U03-L02",
+              "U03-L02-O01",
+              "U03-L02-O02"
+            ],
+            "title": "Opening scenario for Systems and Processes: Key Ideas 2",
+            "prompt": "Consider a real-world situation involving Systems and Processes: Key Ideas 2. What would you predict before reading the textbook explanation?",
+            "decision_rationale": "Prompts curiosity without giving away assessment answers.",
+            "alignment_claim": "Activation introduces the lesson topic and outcome context."
+          },
+          "editor_review": {
+            "id": "U03-L02-ER01",
+            "parent_id": "U03-L02",
+            "source_ids": [
+              "U03-L02",
+              "U03-L02-O01",
+              "U03-L02-O02"
+            ],
+            "status": "human_review",
+            "flags": [
+              "Human review recommended for placeholder MCQ specificity"
+            ],
+            "recommendations": [
+              "Replace fallback questions with source-specific misconceptions after model run."
+            ],
+            "decision_rationale": "Validated structure and marked weak placeholder specificity.",
+            "alignment_claim": "Review checks title, outcomes, questions, activation, learning object, and textbook grounding."
+          }
+        },
+        {
+          "id": "U03-L03",
+          "parent_id": "U03",
+          "source_ids": [
+            "U03",
+            "CH03"
+          ],
+          "title": "Systems and Processes: Key Ideas 3",
+          "textbook_refs": [
+            "Chapter 3"
+          ],
+          "outcomes": [
+            {
+              "id": "U03-L03-O01",
+              "parent_id": "U03-L03",
+              "source_ids": [
+                "U03-L03",
+                "CH03"
+              ],
+              "questions": [
+                {
+                  "id": "U03-L03-O01-Q01",
+                  "parent_id": "U03-L03-O01",
+                  "source_ids": [
+                    "U03-L03-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Systems and Processes: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U03-L03-O01-Q02",
+                  "parent_id": "U03-L03-O01",
+                  "source_ids": [
+                    "U03-L03-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Systems and Processes: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U03-L03-O01-Q03",
+                  "parent_id": "U03-L03-O01",
+                  "source_ids": [
+                    "U03-L03-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Systems and Processes: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain core concepts related to Systems and Processes: Key Ideas 3.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            },
+            {
+              "id": "U03-L03-O02",
+              "parent_id": "U03-L03",
+              "source_ids": [
+                "U03-L03",
+                "CH03"
+              ],
+              "questions": [
+                {
+                  "id": "U03-L03-O02-Q01",
+                  "parent_id": "U03-L03-O02",
+                  "source_ids": [
+                    "U03-L03-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Systems and Processes: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U03-L03-O02-Q02",
+                  "parent_id": "U03-L03-O02",
+                  "source_ids": [
+                    "U03-L03-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Systems and Processes: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U03-L03-O02-Q03",
+                  "parent_id": "U03-L03-O02",
+                  "source_ids": [
+                    "U03-L03-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Systems and Processes: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain evidence and applications related to Systems and Processes: Key Ideas 3.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            }
+          ],
+          "learning_objects": [
+            {
+              "id": "U03-L03-LO01",
+              "parent_id": "U03-L03",
+              "source_ids": [
+                "U03-L03",
+                "U03-L03-O01",
+                "U03-L03-O02"
+              ],
+              "type": "reading",
+              "title": "OpenStax reading: Systems and Processes",
+              "url": "https://openstax.org/details/books/astronomy-2e",
+              "description": "Primary textbook reading aligned to Systems and Processes: Key Ideas 3.",
+              "decision_rationale": "Uses source textbook as grounded learning object when external search is not performed.",
+              "alignment_claim": "Reading directly supports the lesson and outcomes."
+            }
+          ],
+          "decision_rationale": "Split unit scope into three lesson-level segments without labs.",
+          "alignment_claim": "Lesson title is grounded in the selected textbook chapter or section.",
+          "activation": {
+            "id": "U03-L03-A01",
+            "parent_id": "U03-L03",
+            "source_ids": [
+              "U03-L03",
+              "U03-L03-O01",
+              "U03-L03-O02"
+            ],
+            "title": "Opening scenario for Systems and Processes: Key Ideas 3",
+            "prompt": "Consider a real-world situation involving Systems and Processes: Key Ideas 3. What would you predict before reading the textbook explanation?",
+            "decision_rationale": "Prompts curiosity without giving away assessment answers.",
+            "alignment_claim": "Activation introduces the lesson topic and outcome context."
+          },
+          "editor_review": {
+            "id": "U03-L03-ER01",
+            "parent_id": "U03-L03",
+            "source_ids": [
+              "U03-L03",
+              "U03-L03-O01",
+              "U03-L03-O02"
+            ],
+            "status": "human_review",
+            "flags": [
+              "Human review recommended for placeholder MCQ specificity"
+            ],
+            "recommendations": [
+              "Replace fallback questions with source-specific misconceptions after model run."
+            ],
+            "decision_rationale": "Validated structure and marked weak placeholder specificity.",
+            "alignment_claim": "Review checks title, outcomes, questions, activation, learning object, and textbook grounding."
+          }
+        }
+      ],
+      "source_ids": [
+        "CH03"
+      ],
+      "title": "Unit 3: Systems and Processes",
+      "textbook_refs": [
+        "Chapter 3"
+      ],
+      "decision_rationale": "Grouped adjacent textbook chapters to preserve source sequence.",
+      "alignment_claim": "Unit scope follows the textbook table of contents and chapter summary evidence."
+    },
+    {
+      "id": "U04",
+      "lessons": [
+        {
+          "id": "U04-L01",
+          "parent_id": "U04",
+          "source_ids": [
+            "U04",
+            "CH04"
+          ],
+          "title": "Evidence and Applications: Key Ideas 1",
+          "textbook_refs": [
+            "Chapter 4"
+          ],
+          "outcomes": [
+            {
+              "id": "U04-L01-O01",
+              "parent_id": "U04-L01",
+              "source_ids": [
+                "U04-L01",
+                "CH04"
+              ],
+              "questions": [
+                {
+                  "id": "U04-L01-O01-Q01",
+                  "parent_id": "U04-L01-O01",
+                  "source_ids": [
+                    "U04-L01-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Evidence and Applications: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U04-L01-O01-Q02",
+                  "parent_id": "U04-L01-O01",
+                  "source_ids": [
+                    "U04-L01-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Evidence and Applications: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U04-L01-O01-Q03",
+                  "parent_id": "U04-L01-O01",
+                  "source_ids": [
+                    "U04-L01-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Evidence and Applications: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain core concepts related to Evidence and Applications: Key Ideas 1.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            },
+            {
+              "id": "U04-L01-O02",
+              "parent_id": "U04-L01",
+              "source_ids": [
+                "U04-L01",
+                "CH04"
+              ],
+              "questions": [
+                {
+                  "id": "U04-L01-O02-Q01",
+                  "parent_id": "U04-L01-O02",
+                  "source_ids": [
+                    "U04-L01-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Evidence and Applications: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U04-L01-O02-Q02",
+                  "parent_id": "U04-L01-O02",
+                  "source_ids": [
+                    "U04-L01-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Evidence and Applications: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U04-L01-O02-Q03",
+                  "parent_id": "U04-L01-O02",
+                  "source_ids": [
+                    "U04-L01-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Evidence and Applications: Key Ideas 1.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain evidence and applications related to Evidence and Applications: Key Ideas 1.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            }
+          ],
+          "learning_objects": [
+            {
+              "id": "U04-L01-LO01",
+              "parent_id": "U04-L01",
+              "source_ids": [
+                "U04-L01",
+                "U04-L01-O01",
+                "U04-L01-O02"
+              ],
+              "type": "reading",
+              "title": "OpenStax reading: Evidence and Applications",
+              "url": "https://openstax.org/details/books/astronomy-2e",
+              "description": "Primary textbook reading aligned to Evidence and Applications: Key Ideas 1.",
+              "decision_rationale": "Uses source textbook as grounded learning object when external search is not performed.",
+              "alignment_claim": "Reading directly supports the lesson and outcomes."
+            }
+          ],
+          "decision_rationale": "Split unit scope into three lesson-level segments without labs.",
+          "alignment_claim": "Lesson title is grounded in the selected textbook chapter or section.",
+          "activation": {
+            "id": "U04-L01-A01",
+            "parent_id": "U04-L01",
+            "source_ids": [
+              "U04-L01",
+              "U04-L01-O01",
+              "U04-L01-O02"
+            ],
+            "title": "Opening scenario for Evidence and Applications: Key Ideas 1",
+            "prompt": "Consider a real-world situation involving Evidence and Applications: Key Ideas 1. What would you predict before reading the textbook explanation?",
+            "decision_rationale": "Prompts curiosity without giving away assessment answers.",
+            "alignment_claim": "Activation introduces the lesson topic and outcome context."
+          },
+          "editor_review": {
+            "id": "U04-L01-ER01",
+            "parent_id": "U04-L01",
+            "source_ids": [
+              "U04-L01",
+              "U04-L01-O01",
+              "U04-L01-O02"
+            ],
+            "status": "human_review",
+            "flags": [
+              "Human review recommended for placeholder MCQ specificity"
+            ],
+            "recommendations": [
+              "Replace fallback questions with source-specific misconceptions after model run."
+            ],
+            "decision_rationale": "Validated structure and marked weak placeholder specificity.",
+            "alignment_claim": "Review checks title, outcomes, questions, activation, learning object, and textbook grounding."
+          }
+        },
+        {
+          "id": "U04-L02",
+          "parent_id": "U04",
+          "source_ids": [
+            "U04",
+            "CH04"
+          ],
+          "title": "Evidence and Applications: Key Ideas 2",
+          "textbook_refs": [
+            "Chapter 4"
+          ],
+          "outcomes": [
+            {
+              "id": "U04-L02-O01",
+              "parent_id": "U04-L02",
+              "source_ids": [
+                "U04-L02",
+                "CH04"
+              ],
+              "questions": [
+                {
+                  "id": "U04-L02-O01-Q01",
+                  "parent_id": "U04-L02-O01",
+                  "source_ids": [
+                    "U04-L02-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Evidence and Applications: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U04-L02-O01-Q02",
+                  "parent_id": "U04-L02-O01",
+                  "source_ids": [
+                    "U04-L02-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Evidence and Applications: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U04-L02-O01-Q03",
+                  "parent_id": "U04-L02-O01",
+                  "source_ids": [
+                    "U04-L02-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Evidence and Applications: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain core concepts related to Evidence and Applications: Key Ideas 2.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            },
+            {
+              "id": "U04-L02-O02",
+              "parent_id": "U04-L02",
+              "source_ids": [
+                "U04-L02",
+                "CH04"
+              ],
+              "questions": [
+                {
+                  "id": "U04-L02-O02-Q01",
+                  "parent_id": "U04-L02-O02",
+                  "source_ids": [
+                    "U04-L02-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Evidence and Applications: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U04-L02-O02-Q02",
+                  "parent_id": "U04-L02-O02",
+                  "source_ids": [
+                    "U04-L02-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Evidence and Applications: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U04-L02-O02-Q03",
+                  "parent_id": "U04-L02-O02",
+                  "source_ids": [
+                    "U04-L02-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Evidence and Applications: Key Ideas 2.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain evidence and applications related to Evidence and Applications: Key Ideas 2.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            }
+          ],
+          "learning_objects": [
+            {
+              "id": "U04-L02-LO01",
+              "parent_id": "U04-L02",
+              "source_ids": [
+                "U04-L02",
+                "U04-L02-O01",
+                "U04-L02-O02"
+              ],
+              "type": "reading",
+              "title": "OpenStax reading: Evidence and Applications",
+              "url": "https://openstax.org/details/books/astronomy-2e",
+              "description": "Primary textbook reading aligned to Evidence and Applications: Key Ideas 2.",
+              "decision_rationale": "Uses source textbook as grounded learning object when external search is not performed.",
+              "alignment_claim": "Reading directly supports the lesson and outcomes."
+            }
+          ],
+          "decision_rationale": "Split unit scope into three lesson-level segments without labs.",
+          "alignment_claim": "Lesson title is grounded in the selected textbook chapter or section.",
+          "activation": {
+            "id": "U04-L02-A01",
+            "parent_id": "U04-L02",
+            "source_ids": [
+              "U04-L02",
+              "U04-L02-O01",
+              "U04-L02-O02"
+            ],
+            "title": "Opening scenario for Evidence and Applications: Key Ideas 2",
+            "prompt": "Consider a real-world situation involving Evidence and Applications: Key Ideas 2. What would you predict before reading the textbook explanation?",
+            "decision_rationale": "Prompts curiosity without giving away assessment answers.",
+            "alignment_claim": "Activation introduces the lesson topic and outcome context."
+          },
+          "editor_review": {
+            "id": "U04-L02-ER01",
+            "parent_id": "U04-L02",
+            "source_ids": [
+              "U04-L02",
+              "U04-L02-O01",
+              "U04-L02-O02"
+            ],
+            "status": "human_review",
+            "flags": [
+              "Human review recommended for placeholder MCQ specificity"
+            ],
+            "recommendations": [
+              "Replace fallback questions with source-specific misconceptions after model run."
+            ],
+            "decision_rationale": "Validated structure and marked weak placeholder specificity.",
+            "alignment_claim": "Review checks title, outcomes, questions, activation, learning object, and textbook grounding."
+          }
+        },
+        {
+          "id": "U04-L03",
+          "parent_id": "U04",
+          "source_ids": [
+            "U04",
+            "CH04"
+          ],
+          "title": "Evidence and Applications: Key Ideas 3",
+          "textbook_refs": [
+            "Chapter 4"
+          ],
+          "outcomes": [
+            {
+              "id": "U04-L03-O01",
+              "parent_id": "U04-L03",
+              "source_ids": [
+                "U04-L03",
+                "CH04"
+              ],
+              "questions": [
+                {
+                  "id": "U04-L03-O01-Q01",
+                  "parent_id": "U04-L03-O01",
+                  "source_ids": [
+                    "U04-L03-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Evidence and Applications: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U04-L03-O01-Q02",
+                  "parent_id": "U04-L03-O01",
+                  "source_ids": [
+                    "U04-L03-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Evidence and Applications: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U04-L03-O01-Q03",
+                  "parent_id": "U04-L03-O01",
+                  "source_ids": [
+                    "U04-L03-O01"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain core concepts related to Evidence and Applications: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain core concepts related to Evidence and Applications: Key Ideas 3.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            },
+            {
+              "id": "U04-L03-O02",
+              "parent_id": "U04-L03",
+              "source_ids": [
+                "U04-L03",
+                "CH04"
+              ],
+              "questions": [
+                {
+                  "id": "U04-L03-O02-Q01",
+                  "parent_id": "U04-L03-O02",
+                  "source_ids": [
+                    "U04-L03-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Evidence and Applications: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U04-L03-O02-Q02",
+                  "parent_id": "U04-L03-O02",
+                  "source_ids": [
+                    "U04-L03-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Evidence and Applications: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                },
+                {
+                  "id": "U04-L03-O02-Q03",
+                  "parent_id": "U04-L03-O02",
+                  "source_ids": [
+                    "U04-L03-O02"
+                  ],
+                  "prompt": "Which choice best supports the outcome: Explain evidence and applications related to Evidence and Applications: Key Ideas 3.",
+                  "choices": [
+                    "A focused textbook-aligned explanation",
+                    "An unrelated historical detail",
+                    "A laboratory procedure",
+                    "A topic from another unit"
+                  ],
+                  "correct_answer": "A focused textbook-aligned explanation",
+                  "explanation": "The correct answer directly matches the stated outcome.",
+                  "decision_rationale": "Question checks recognition of aligned conceptual understanding.",
+                  "alignment_claim": "Question prompt and answer map to the outcome."
+                }
+              ],
+              "text": "Explain evidence and applications related to Evidence and Applications: Key Ideas 3.",
+              "decision_rationale": "Uses measurable lesson-level verb and narrow lesson scope.",
+              "alignment_claim": "Outcome targets understanding of the lesson topic from the textbook reference."
+            }
+          ],
+          "learning_objects": [
+            {
+              "id": "U04-L03-LO01",
+              "parent_id": "U04-L03",
+              "source_ids": [
+                "U04-L03",
+                "U04-L03-O01",
+                "U04-L03-O02"
+              ],
+              "type": "reading",
+              "title": "OpenStax reading: Evidence and Applications",
+              "url": "https://openstax.org/details/books/astronomy-2e",
+              "description": "Primary textbook reading aligned to Evidence and Applications: Key Ideas 3.",
+              "decision_rationale": "Uses source textbook as grounded learning object when external search is not performed.",
+              "alignment_claim": "Reading directly supports the lesson and outcomes."
+            }
+          ],
+          "decision_rationale": "Split unit scope into three lesson-level segments without labs.",
+          "alignment_claim": "Lesson title is grounded in the selected textbook chapter or section.",
+          "activation": {
+            "id": "U04-L03-A01",
+            "parent_id": "U04-L03",
+            "source_ids": [
+              "U04-L03",
+              "U04-L03-O01",
+              "U04-L03-O02"
+            ],
+            "title": "Opening scenario for Evidence and Applications: Key Ideas 3",
+            "prompt": "Consider a real-world situation involving Evidence and Applications: Key Ideas 3. What would you predict before reading the textbook explanation?",
+            "decision_rationale": "Prompts curiosity without giving away assessment answers.",
+            "alignment_claim": "Activation introduces the lesson topic and outcome context."
+          },
+          "editor_review": {
+            "id": "U04-L03-ER01",
+            "parent_id": "U04-L03",
+            "source_ids": [
+              "U04-L03",
+              "U04-L03-O01",
+              "U04-L03-O02"
+            ],
+            "status": "human_review",
+            "flags": [
+              "Human review recommended for placeholder MCQ specificity"
+            ],
+            "recommendations": [
+              "Replace fallback questions with source-specific misconceptions after model run."
+            ],
+            "decision_rationale": "Validated structure and marked weak placeholder specificity.",
+            "alignment_claim": "Review checks title, outcomes, questions, activation, learning object, and textbook grounding."
+          }
+        }
+      ],
+      "source_ids": [
+        "CH04"
+      ],
+      "title": "Unit 4: Evidence and Applications",
+      "textbook_refs": [
+        "Chapter 4"
+      ],
+      "decision_rationale": "Grouped adjacent textbook chapters to preserve source sequence.",
+      "alignment_claim": "Unit scope follows the textbook table of contents and chapter summary evidence."
+    }
+  ]
+}
