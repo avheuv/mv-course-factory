@@ -65,14 +65,14 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Set an OpenAI API key to enable live Agents SDK calls as the prototype evolves:
+Set an OpenAI API key. The script requires live OpenAI Agents SDK calls and will fail safely without credentials:
 
 ```bash
 export OPENAI_API_KEY="your_api_key_here"
 export OPENAI_MODEL="gpt-4.1-mini"
 ```
 
-The current prototype also supports deterministic fallback generation. This is useful for local schema checks, logging checks, and development without an API key.
+Deterministic fallback generation has been removed. If dependencies, textbook extraction, API credentials, or model calls fail, the script writes a meaningful error record to `outputs/course_build_log.csv` and exits without fabricating course content.
 
 ## Usage
 
@@ -92,16 +92,6 @@ python course_factory.py \
   --title "Astronomy" \
   --source "./astronomy-2e.pdf" \
   --units 4
-```
-
-Run in deterministic offline/fallback mode:
-
-```bash
-python course_factory.py \
-  --title "Astronomy" \
-  --source "https://openstax.org/details/books/astronomy-2e" \
-  --units 4 \
-  --offline
 ```
 
 ## Evidence trail
@@ -141,5 +131,5 @@ The log explicitly captures trace chains such as:
 ## Notes and limitations
 
 - The script extracts table-of-contents-like chapter references from OpenStax HTML, PDF URLs, or local PDFs.
-- If dependencies, API credentials, or model calls are unavailable, deterministic fallback generation preserves the required schema and evidence trail while marking records with warning statuses.
-- Generated fallback questions are intentionally marked for human review because they are schema-valid placeholders rather than fully source-specific assessment items.
+- If dependencies, API credentials, textbook extraction, or model calls are unavailable, the run fails safely and logs an error instead of generating deterministic fallback content.
+- The build log includes an `openai_agent_call` record when a live Agents SDK request succeeds, including token usage when available.
